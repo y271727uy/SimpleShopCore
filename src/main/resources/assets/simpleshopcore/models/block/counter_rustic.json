@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "simpleshopcore:block/counter_side",
+    "down": "simpleshopcore:block/counter_bottom",
+    "up": "simpleshopcore:block/counter_top",
+    "north": "simpleshopcore:block/counter_side",
+    "east": "simpleshopcore:block/counter_side",
+    "south": "simpleshopcore:block/counter_side",
+    "west": "simpleshopcore:block/counter_side"
+  }
+}
